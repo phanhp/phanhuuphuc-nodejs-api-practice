@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-api-practice",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "practice nodejs",
+  "main": "src/server.js",
+  "author": "phanhuuphuc",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
